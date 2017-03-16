@@ -1,8 +1,8 @@
-﻿using System;
-using System.Numerics;
-
-namespace BitShiftMatrix
+﻿namespace BitShiftMatrix
 {
+    using System;
+    using System.Numerics;
+
     class BigShiftMatrixClass
     {
         static void Main()

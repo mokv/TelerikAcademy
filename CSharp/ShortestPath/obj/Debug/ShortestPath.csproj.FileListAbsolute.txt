@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\JorkatasTasks\ShortestPath\bin\Debug\ShortestPath.exe.config
+D:\Projects\Visual Studio\JorkatasTasks\ShortestPath\bin\Debug\ShortestPath.exe
+D:\Projects\Visual Studio\JorkatasTasks\ShortestPath\bin\Debug\ShortestPath.pdb
+D:\Projects\Visual Studio\JorkatasTasks\ShortestPath\obj\Debug\ShortestPath.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\JorkatasTasks\ShortestPath\obj\Debug\ShortestPath.exe
+D:\Projects\Visual Studio\JorkatasTasks\ShortestPath\obj\Debug\ShortestPath.pdb
