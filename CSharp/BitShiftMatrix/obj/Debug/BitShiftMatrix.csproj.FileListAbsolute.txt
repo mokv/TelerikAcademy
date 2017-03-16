@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\JorkatasTasks\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+D:\Projects\Visual Studio\JorkatasTasks\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe
+D:\Projects\Visual Studio\JorkatasTasks\BitShiftMatrix\bin\Debug\BitShiftMatrix.pdb
+D:\Projects\Visual Studio\JorkatasTasks\BitShiftMatrix\obj\Debug\BitShiftMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\JorkatasTasks\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+D:\Projects\Visual Studio\JorkatasTasks\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb
