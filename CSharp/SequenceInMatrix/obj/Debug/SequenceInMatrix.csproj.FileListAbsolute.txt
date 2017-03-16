@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio\TelerikAcademy\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+D:\Projects\Visual Studio\TelerikAcademy\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+D:\Projects\Visual Studio\TelerikAcademy\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+D:\Projects\Visual Studio\TelerikAcademy\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+D:\Projects\Visual Studio\TelerikAcademy\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb
