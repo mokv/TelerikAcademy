@@ -1,2 +1,2 @@
 # TelerikAcademy
-Describes my learning progress in Telerik Academy. Here are just a few of the tasks I've solved in the academy.
+These are some of the tasks I've solved in from TelerikAcademy.
